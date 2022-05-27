@@ -1,0 +1,293 @@
+[
+
+    {
+        "companyname": "Lenovo",
+        "model":"Ideapad 330",
+        "stock": "100",
+        "price":"42000",
+        "device":"Laptop"
+    },
+
+
+
+    {
+        "companyname": "Huawei",
+        "model":"MateBook X Pro",
+        "stock": "100",
+        "price":"112425",
+        "device":"Laptop"
+    },
+
+
+    {
+        "companyname": "Apple",
+        "model":"Macbook Pro 2018",
+        "stock": "100",
+        "price":"250000",
+        "device":"Laptop"
+    },
+
+
+    {
+        "companyname": "Dell",
+        "model":"XPS 13",
+        "stock": "100",
+        "price":"62000",
+        "device":"Laptop"
+    },
+
+
+    {
+        "companyname": "Asus",
+        "model":"ZenBook Flip S",
+        "stock": "100",
+        "price":"78000",
+        "device":"Laptop"
+    },
+
+
+    {
+        "companyname": "Samsung",
+        "model":"Notebook 9",
+        "stock": "100",
+        "price":"46000",
+        "device":"Laptop"
+    },
+
+
+    {
+        "companyname": "Lenovo",
+        "model":"Legion Slim 7",
+        "stock": "100",
+        "price":"150000",
+        "device":"Laptop"
+    },
+
+
+    {
+        "companyname": "Lenovo",
+        "model":"V14 G2-ITL",
+        "stock": "100",
+        "price":"48000",
+        "device":"Laptop"
+    },
+
+
+    {
+        "companyname": "Lenovo",
+        "model":"IdeaPad Slim 5",
+        "stock": "100",
+        "price":"66968",
+        "device":"Laptop"
+    },
+
+
+    {
+        "companyname": "Lenovo",
+        "model":"ThinkPad E15",
+        "stock": "100",
+        "price":"50409",
+        "device":"Laptop"
+    },
+
+
+    {
+        "companyname": "HP",
+        "model":"Pavilion 15",
+        "stock": "100",
+        "price":"32000",
+        "device":"Laptop"
+    },
+
+
+    {
+        "companyname": "HP",
+        "model":"Chromebook 14a",
+        "stock": "100",
+        "price":"30000",
+        "device":"Laptop"
+    },
+
+
+    {
+        "companyname": "HP",
+        "model":"Envy 14-eb0021TX",
+        "stock": "100",
+        "price":"43000",
+        "device":"Laptop"
+    },
+
+
+    {
+        "companyname": "HP",
+        "model":"Victus 16 E Series",
+        "stock": "100",
+        "price":"58499",
+        "device":"Laptop"
+    },
+
+
+    {
+        "companyname": "BlackBerry",
+        "model":"Storm2 9550",
+        "stock": "100",
+        "price":"20000",
+        "device":"Mobile"
+    },
+
+
+    {
+        "companyname": "BlackBerry",
+        "model":"Curve 8900",
+        "stock": "100",
+        "price":"21000",
+        "device":"Mobile"
+    },
+
+
+    {
+        "companyname": "BlackBerry",
+        "model":"Z3",
+        "stock": "100",
+        "price":"21000",
+        "device":"Mobile"
+    },
+
+
+    {
+        "companyname": "BlackBerry",
+        "model":"A10",
+        "stock": "100",
+        "price":"14000",
+        "device":"Mobile"
+    },
+
+
+    {
+        "companyname": "BlackBerry",
+        "model":"Bold 9790",
+        "stock": "100",
+        "price":"36000",
+        "device":"Mobile"
+    },
+
+
+    {
+        "companyname": "BlackBerry",
+        "model":"Pearl 3G 9105",
+        "stock": "100",
+        "price":"23000",
+        "device":"Mobile"
+    },
+
+
+    {
+        "companyname": "BlackBerry",
+        "model":"Pearl 8120",
+        "stock": "100",
+        "price":"22000",
+        "device":"Mobile"
+    },
+
+
+    {
+        "companyname": "Samsung",
+        "model":"Galaxy Grand 2",
+        "stock": "100",
+        "price":"13000",
+        "device":"Mobile"
+    },
+
+
+    {
+        "companyname": "Samsung",
+        "model":"E210",
+        "stock": "100",
+        "price":"23000",
+        "device":"Mobile"
+    },
+
+
+    {
+        "companyname": "Samsung",
+        "model":"Xcover 550",
+        "stock": "100",
+        "price":"26000",
+        "device":"Mobile"
+    },
+
+
+    {
+        "companyname": "Samsung",
+        "model":"E400",
+        "stock": "100",
+        "price":"36000",
+        "device":"Mobile"
+    },
+
+
+    {
+        "companyname": "Samsung",
+        "model":"Galaxy Note 4",
+        "stock": "100",
+        "price":"34000",
+        "device":"Mobile"
+    },
+
+
+    {
+        "companyname": "Samsung",
+        "model":"Galaxy J5",
+        "stock": "100",
+        "price":"9000",
+        "device":"Mobile"
+    },
+
+
+    {
+        "companyname": "Vivo",
+        "model":"Y27",
+        "stock": "100",
+        "price":"30000",
+        "device":"Mobile"
+    },
+
+
+    {
+        "companyname": "Vivo",
+        "model":"X5Pro",
+        "stock": "100",
+        "price":"42000",
+        "device":"Mobile"
+    },
+
+
+    {
+        "companyname": "Vivo",
+        "model":"V5s",
+        "stock": "100",
+        "price":"38000",
+        "device":"Mobile"
+    },
+
+
+    {
+        "companyname": "Vivo",
+        "model":"Y11",
+        "stock": "100",
+        "price":"12000",
+        "device":"Mobile"
+    },
+
+
+    {
+        "companyname": "Vivo",
+        "model":"Xplay5",
+        "stock": "100",
+        "price":"10000",
+        "device":"Mobile"
+    }
+
+
+
+] 
